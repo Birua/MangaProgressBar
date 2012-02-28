@@ -1,0 +1,2 @@
+MangaProgressBar is a standalone satellite to Mangle for Kindle, to test progress bar feature.
+Supports cbz files, creates progress bar on png images prepeared for a Kindle.
